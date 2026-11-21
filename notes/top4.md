@@ -7,13 +7,14 @@ Controls
 You have control, he said.
 I have control, I said.
 You have control, he said,
-the way they teach it, three times,
+the way they teach it,
 so the plane is never no one's.
 
 He lifted his hands from the yoke
 and set them on his knees.
 Forty years he had flown.
-He looked out the window.
+He looked out the window
+like a passenger.
 ---
 
 B

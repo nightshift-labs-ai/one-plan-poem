@@ -180,3 +180,6 @@ Crosscut r2: "steel" -> "teeth"; "came down" -> "came apart" (a crosscut splits 
 
 ## Pick: Controls
 It meets C1 most plainly: the agreement IS the scene, spoken in three lines, and the power to act visibly passes (his hands leave the yoke). It is ahead on C2/C3 because the last line reverses what agency meant: for him it was always gripping, now it is the freedom to look. The line "so the plane is never no one's" says something true about agreeing that readers who hand work to AI agents will recognise.
+
+## Final re-test (after step 6) and last edit
+C1 holds: the agreement is the scene and the power visibly passes. C2 was the weak point: "He looked out the window" asked the reader to infer that forty years of flying meant forty years of not looking. Edit: cut "three times" (the three lines already show it) and end "He looked out the window / like a passenger." The pilot becomes a passenger by his own yes. That reverses what agency meant earlier in the poem, and it keeps working after the last line. Final: 273 code points.
